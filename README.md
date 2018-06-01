@@ -3,6 +3,7 @@ Jeu de cuisine en C en utilisant la librairie CSFML. <br/>
 Note : 75
 
 ![](preview.png)
+![](preview2.png)
 
 ## Dépendances
 
